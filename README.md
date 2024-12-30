@@ -17,7 +17,7 @@ The **Sloyd AI Plugin for Unity** allows users to generate 3D objects from simpl
 
 ## Setup  
 1. Open **Packadge Manager** in your Unity project and add https://github.com/Sloydai/UnityPlugin.git#gltfast-5.0
-2. This package will also automatically install **gltFast Plugin** if it's not already in your project. If there's an issue you can install it manually with package manager: com.unity.cloud.gltfast 
+2. This package will also automatically install **gltFast Plugin** if it's not already in your project. If there's an issue you can install it manually with package manager: com.unity.cloud.gltfast@5.0.4
 
 ---  
 
